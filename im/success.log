@@ -9,6 +9,5 @@
 2023-10-17 12:00:02,543 - 59250-MainThread - /Applications/MxSrvs/www/ymxDowload/JdSeckill/jd_spider_requests.py[line:247] - INFO: 抢购失败，返回信息:{'errorMessage': '很遗憾没有抢到，再接再厉哦。', 'orderId': 0, 'resultCode': 90016, 'skuId': 0, 'success': False}
 2023-10-17 12:00:02,622 - 59250-MainThread - /Applications/MxSrvs/www/ymxDowload/JdSeckill/jd_spider_requests.py[line:247] - INFO: 抢购失败，返回信息:{'errorMessage': '很遗憾没有抢到，再接再厉哦。', 'orderId': 0, 'resultCode': 90016, 'skuId': 0, 'success': False}
 2023-10-17 12:00:02,693 - 59250-MainThread - /Applications/MxSrvs/www/ymxDowload/JdSeckill/jd_spider_requests.py[line:238] - INFO: 抢购失败，返回信息:<!DOCTYPE html>
-2023-10-17 12:00:02,821 - 59250-MainThread - /Applications/MxSrvs/www/ymxDowload/JdSeckill/jd_spider_requests.py[line:238] - INFO: 抢购结果:{'appUrl': 'https://mpay.m.jd.com/mpay.1ec8f70280318a51e2bb.html?appId=jd_m_msha&payId=3420cb4f0d7a4424b53f8ae7
-81f542f6', 'pcUrl': '//sko.jd.com/success/success.action?orderId=250387144183&rid=0.88556282118
-81714', 'resultCode': 0, 'skuId': 0, 'success': True, 'totalMoney': '1499.00'}
+2023-10-17 12:00:02,821  - INFO: 抢购结果:{'appUrl': 'https://mpay.m.jd.com/mpay.1ec8f70280318a51e2bb.html?appId=jd_m_msha&payId=3420cb4f0d7a4424b53f8ae7
+81f542f6',  'resultCode': 0, 'skuId': 0, 'success': True, 'totalMoney': '1499.00'}
