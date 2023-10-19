@@ -1,6 +1,16 @@
 # Jd_seckill_23 By 2023.10.17
 # 23年京东茅台，通用抢购，适用于预约流程的抢购
 
+# 2023.10.19
+#### 1、这是今天的测试，抢购速度要比昨天好不少，还有提升的空间
+#### 2023-10-19 10:08:00,678 - INFO - 抢购失败，返回信息:{'errorMessage': '很遗憾没有抢到，再接再厉哦。', 'orderId': 0, 'resultCode': 90008, 'skuId': 0, 'success': False}
+#### 2023-10-19 10:08:00,798 - INFO - 抢购失败，返回信息:{'errorMessage': '很遗憾没有抢到，再接再厉哦。', 'orderId': 0, 'resultCode': 90008, 'skuId': 0, 'success': False}
+#### 2023-10-19 10:08:00,924 - INFO - 抢购失败，返回信息:{'errorMessage': '很遗憾没有抢到，再接再厉哦。', 'orderId': 0, 'resultCode': 90008, 'skuId': 0, 'success': False}
+#### 2023-10-19 10:08:01,051 - INFO - 抢购失败，返回信息:{'errorMessage': '很遗憾没有抢到，再接再厉哦。', 'orderId': 0, 'resultCode': 90016, 'skuId': 0, 'success': False}
+#### 2023-10-19 10:08:01,111 - INFO - 抢购失败，返回信息:{'errorMessage': '很遗憾没有抢到，再接再厉哦。', 'orderId': 0, 'resultCode': 90016, 'skuId': 0, 'success': False}
+#### 2、这里说下，demo里面已经是个完整的流程了，如果不清楚的可以抓包看看，参数里面涉及加密的代码跟包是不会提供的，因为避免大量传播，这边后续会搭建服务器把加密接口提供给大家用，
+#### 3、TODO....
+
 # 2023.10.18
 ####  1、这边今天测试了一下华为mete60，
 ![img.png](img.png)
